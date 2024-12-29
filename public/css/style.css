@@ -1,0 +1,16 @@
+#log {
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    height: auto;
+    overflow-y: scroll;
+}
+
+h1 {
+    font-family:sans-serif;
+    text-align: center;
+}
